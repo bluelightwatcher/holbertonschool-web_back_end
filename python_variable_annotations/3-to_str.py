@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
+"""
+Contains to_str func
+"""
 import typing
-"""Contains to_str func"""
 
 
 def to_str(n: float) -> str:
