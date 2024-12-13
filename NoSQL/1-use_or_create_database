@@ -1,0 +1,2 @@
+//Selects the my_db database in MongoDB.
+use my_db

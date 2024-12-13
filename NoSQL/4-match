@@ -1,0 +1,2 @@
+//Retrieves documents from the 'school' collection where the 'name' field is equal to "Holberton school".
+db.school.find({name: "Holberton school"})
